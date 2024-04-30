@@ -1,5 +1,5 @@
 // Define the API key for the openweathermap.org API
-const apiKey = "API KEY GOES HERE";
+const apiKey = " ";
 
 // Define the API URL for the openweathermap.org API
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather";

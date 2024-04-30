@@ -32,4 +32,4 @@ Parsing the JSON response data to extract relevant weather information (temperat
 Dynamically updating the HTML elements in the UI with the retrieved weather data.
 
 ## Screenshot
-![alt text](screenshots/image.png "User-interface")
+![alt text](/image.png "User-interface")
